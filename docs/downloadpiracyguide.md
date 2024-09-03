@@ -53,7 +53,7 @@
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [AyakaLounge](https://ayakalounge.me/) - Video / Audio / ROMs
-* [2DDL](https://2ddl.it/) - Video / Audio / Books / Comics / Magazines
+* [1DDL](https://1ddl.org/) - Video / Audio / Books / Comics / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
 * [WarezLoad](https://warezload.net/index.php) - Video / Audio / Books
